@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 - Home/Dashboard.md",
+                "file": "000 - Home/Master Context.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "Master Context"
             }
           }
         ]
@@ -197,10 +197,11 @@
   },
   "active": "9e22385825da6a9f",
   "lastOpenFiles": [
+    "000 - Home/Dashboard.md",
+    "000 - Home/Master Context.md",
     "600 - Resources/Resources.md",
     "400 - Daily Notes/2026-05-23.md",
     "300 - Business/Business Overview.md",
-    "000 - Home/Dashboard.md",
     "23-05-2026.md",
     "500 - Ideas & Inbox/Inbox.md",
     "600 - Resources",
@@ -231,7 +232,6 @@
     "100 - Projects/Islamic Clip Studio/Islamic Clip Studio — Features.md",
     "100 - Projects/Islamic Clip Studio/Islamic Clip Studio.md",
     "100 - Projects/Sabr Walls/Sabr Walls — Monetization & Growth.md",
-    "100 - Projects/Sabr Walls/Sabr Walls — Design & Content.md",
-    "100 - Projects/Sabr Walls/Sabr Walls.md"
+    "100 - Projects/Sabr Walls/Sabr Walls — Design & Content.md"
   ]
 }
