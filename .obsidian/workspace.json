@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "fc9708b9a8880bc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3460554b68045bd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e22385825da6a9f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d18dc696af21df3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5ffe0cb8fe4c9e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39b98ed41eaa78ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7b806d2c586f7aa7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "345aa0046198c3d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7e75c15f22675a22",
+    "type": "split",
+    "children": [
+      {
+        "id": "29f9164375c86477",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2098f9bf07aa3fac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "000 - Home/Dashboard.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Dashboard"
+            }
+          },
+          {
+            "id": "c6fa28ff600fd62e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "000 - Home/Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Dashboard"
+            }
+          },
+          {
+            "id": "799a96ad2ca79b2e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b5f0b21d162834fc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "713e44e75cf294aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "000 - Home/Dashboard.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Dashboard"
+            }
+          },
+          {
+            "id": "1ca46bd45c70fbc1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "39b98ed41eaa78ae",
+  "lastOpenFiles": [
+    "000 - Home/Dashboard.md",
+    "23-05-2026.md",
+    "500 - Ideas & Inbox/Inbox.md",
+    "600 - Resources",
+    "200 - Knowledge/Islamic Research/Islamic Research.md",
+    "500 - Ideas & Inbox/Inbox",
+    "500 - Ideas & Inbox",
+    "400 - Daily Notes",
+    "300 - Business/Revenue Models",
+    "300 - Business/Audience & Positioning",
+    "300 - Business/Monetization",
+    "300 - Business",
+    "200 - Knowledge/Tech & Dev/Tech & Dev Notes.md",
+    "200 - Knowledge/Islamic Research",
+    "200 - Knowledge/Tech & Dev/Untitled.md",
+    "200 - Knowledge/Marketing & Growth/Growth Channels By Product.md",
+    "200 - Knowledge/Tech & Dev",
+    "200 - Knowledge/Marketing & Growth/Marketing & Growth.md",
+    "200 - Knowledge/Product Thinking/Monetization Strategy.md",
+    "200 - Knowledge/Product Thinking/Product Thinking.md",
+    "100 - Projects/Nafs/Nafs.md",
+    "100 - Projects/True Form/True Form — Positioning.md",
+    "100 - Projects/True Form/True Form — Monetization.md",
+    "100 - Projects/True Form/True Form — Content Pillars.md",
+    "100 - Projects/True Form/True Form — Features.md",
+    "100 - Projects/True Form/True Form.md",
+    "100 - Projects/Islamic Clip Studio/Islamic Clip Studio — Monetization.md",
+    "100 - Projects/Islamic Clip Studio/Islamic Clip Studio — Tech Stack.md",
+    "100 - Projects/Islamic Clip Studio/Islamic Clip Studio — Features.md",
+    "100 - Projects/Islamic Clip Studio/Islamic Clip Studio.md",
+    "100 - Projects/Sabr Walls/Sabr Walls — Monetization & Growth.md",
+    "100 - Projects/Sabr Walls/Sabr Walls — Design & Content.md",
+    "100 - Projects/Sabr Walls/Sabr Walls.md",
+    "100 - Projects/Sim Racing Controller/Sim Racing Controller — Marketing.md",
+    "100 - Projects/Sim Racing Controller/Sim Racing Controller — Monetization.md",
+    "100 - Projects/Sim Racing Controller/Sim Racing Controller — Tech Stack.md"
+  ]
+}
