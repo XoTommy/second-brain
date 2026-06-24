@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 - Projects/Nafs/Nafs — Income Potential.md",
+                "file": "100 - Projects/Islamic Clip Studio/Islamic Clip Studio — Tech Stack.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Nafs — Income Potential"
+              "title": "Islamic Clip Studio — Tech Stack"
             }
           }
         ]
@@ -197,6 +197,8 @@
   },
   "active": "9e22385825da6a9f",
   "lastOpenFiles": [
+    "100 - Projects/Islamic Clip Studio/Islamic Clip Studio — Features.md",
+    "100 - Projects/Islamic Clip Studio/Islamic Clip Studio.md",
     "100 - Projects/Nafs/Nafs — Income Potential.md",
     "100 - Projects/Nafs/Nafs — Growth Strategy.md",
     "000 - Home/Dashboard.md",
@@ -230,8 +232,6 @@
     "200 - Knowledge/Product Thinking/Monetization Strategy.md",
     "200 - Knowledge/Product Thinking/Product Thinking.md",
     "100 - Projects/Nafs/Nafs.md",
-    "100 - Projects/True Form/True Form — Positioning.md",
-    "100 - Projects/True Form/True Form — Monetization.md",
-    "100 - Projects/True Form/True Form — Content Pillars.md"
+    "100 - Projects/True Form/True Form — Positioning.md"
   ]
 }
