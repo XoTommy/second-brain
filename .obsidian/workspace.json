@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3460554b68045bd8",
+        "id": "5589dd0fbddb58e5",
         "type": "tabs",
         "children": [
           {
-            "id": "9e22385825da6a9f",
+            "id": "3c6542f099676f7e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100 - Projects/DMO( DON'T . MISS . OUT )/Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
         ]
@@ -195,10 +190,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e22385825da6a9f",
+  "active": "3c6542f099676f7e",
   "lastOpenFiles": [
-    "200 - Knowledge/Islamic Research/Islamic Research.md",
     "100 - Projects/DMO( DON'T . MISS . OUT )/Untitled.md",
+    "200 - Knowledge/Islamic Research/Islamic Research.md",
     "100 - Projects/DMO( DON'T . MISS . OUT )",
     "100 - Projects/Sim Racing Controller/Sim Racing Controller — Income Potential.md",
     "100 - Projects/BuildCalc/BuildCalc — Income Potential.md",
