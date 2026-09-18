@@ -42,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -197,8 +199,9 @@
   },
   "active": "3c6542f099676f7e",
   "lastOpenFiles": [
-    "100 - Projects/DMO( DON'T . MISS . OUT )/Untitled.md",
+    "100 - Projects/DMO( DON'T . MISS . OUT )/DMO 1.md",
     "100 - Projects/DMO( DON'T . MISS . OUT )/DMO.md",
+    "100 - Projects/DMO( DON'T . MISS . OUT )/Untitled.md",
     "DMO — Ultimate V1 - V2 - V3 Product & Architecture Synopsis.md",
     "200 - Knowledge/Islamic Research/Islamic Research.md",
     "100 - Projects/DMO( DON'T . MISS . OUT )",
@@ -231,7 +234,6 @@
     "300 - Business",
     "200 - Knowledge/Tech & Dev/Tech & Dev Notes.md",
     "200 - Knowledge/Islamic Research",
-    "200 - Knowledge/Tech & Dev/Untitled.md",
-    "200 - Knowledge/Marketing & Growth/Growth Channels By Product.md"
+    "200 - Knowledge/Tech & Dev/Untitled.md"
   ]
 }
