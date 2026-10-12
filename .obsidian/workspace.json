@@ -11,17 +11,15 @@
             "id": "3c6542f099676f7e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "100 - Projects/DMO( DON'T . MISS . OUT )/DMO.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "DMO"
             }
           }
         ]
@@ -202,7 +200,6 @@
   "active": "3c6542f099676f7e",
   "lastOpenFiles": [
     "Untitled.canvas",
-    "100 - Projects/DMO( DON'T . MISS . OUT )/DMO.md",
     "100 - Projects/DMO( DON'T . MISS . OUT )/DMO.md",
     "DMO_Ultimate_Synopsis_Revised_V1_V2_V3(1).md",
     "100 - Projects/DMO( DON'T . MISS . OUT )/DMO 1.md",
