@@ -21,24 +21,8 @@
               "icon": "lucide-file",
               "title": "DMO"
             }
-          },
-          {
-            "id": "5c1c2c51a52e19b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c1c2c51a52e19b9",
+  "active": "39b98ed41eaa78ae",
   "lastOpenFiles": [
     "01_DMO_Main_Synopsis.md",
     "100 - Projects/DMO( DON'T . MISS . OUT )/DMO.md",
