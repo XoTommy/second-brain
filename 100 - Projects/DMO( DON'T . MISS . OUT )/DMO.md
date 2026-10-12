@@ -1,1 +1,0 @@
-![[DMO_Ultimate_Synopsis_Revised_V1_V2_V3(1)]]

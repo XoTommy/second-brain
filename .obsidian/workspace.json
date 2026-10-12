@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 - Projects/DMO( DON'T . MISS . OUT )/DMO.md",
+                "file": "100 - Projects/DMO( DON'T . MISS . OUT )/DMO Knowledge/05_DMO_Runner_Improvements.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "DMO"
+              "title": "05_DMO_Runner_Improvements"
             }
           }
         ]
@@ -197,8 +197,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39b98ed41eaa78ae",
+  "active": "3c6542f099676f7e",
   "lastOpenFiles": [
+    "100 - Projects/DMO( DON'T . MISS . OUT )/DMO Knowledge/00_DMO_Home.md",
+    "100 - Projects/DMO( DON'T . MISS . OUT )/DMO.md",
+    "Untitled.md",
     "100 - Projects/DMO( DON'T . MISS . OUT )/DMO Knowledge/README_IMPORT.md",
     "100 - Projects/DMO( DON'T . MISS . OUT )/DMO Knowledge/07_DMO_Runtime_Cloud_Publication.md",
     "100 - Projects/DMO( DON'T . MISS . OUT )/DMO Knowledge/06_DMO_GemBot_Reverse_Engineering.md",
@@ -207,11 +210,8 @@
     "100 - Projects/DMO( DON'T . MISS . OUT )/DMO Knowledge/03_DMO_Rug_Defense.md",
     "100 - Projects/DMO( DON'T . MISS . OUT )/DMO Knowledge/02_DMO_Progress_So_Far.md",
     "100 - Projects/DMO( DON'T . MISS . OUT )/DMO Knowledge/01_DMO_Main_Synopsis.md",
-    "100 - Projects/DMO( DON'T . MISS . OUT )/DMO Knowledge/00_DMO_Home.md",
     "100 - Projects/DMO( DON'T . MISS . OUT )/DMO Knowledge",
     "01_DMO_Main_Synopsis.md",
-    "100 - Projects/DMO( DON'T . MISS . OUT )/DMO.md",
-    "Untitled.md",
     "Untitled.canvas",
     "DMO_Ultimate_Synopsis_Revised_V1_V2_V3(1).md",
     "100 - Projects/DMO( DON'T . MISS . OUT )/DMO 1.md",
